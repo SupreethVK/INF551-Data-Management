@@ -1,0 +1,4 @@
+Name	Continent	Population
+United Arab Emirates	Asia	2441000
+United Kingdom	Europe	59623400
+United States	North America	278357000

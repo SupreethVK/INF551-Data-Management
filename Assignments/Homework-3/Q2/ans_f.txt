@@ -1,0 +1,11 @@
+Language	Tot_Pop
+Chinese	1281125000
+Hindi	1013662000
+English	456631500
+Spanish	372190700
+Arabic	291217000
+Malay	237918000
+Portuguese	181325600
+Russian	161869000
+Urdu	156483000
+French	146364100

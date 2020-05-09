@@ -1,0 +1,16 @@
+Name	num_languages
+Canada	12
+China	12
+India	12
+Russian Federation	12
+United States	12
+Tanzania	11
+South Africa	11
+Congo, The Democratic Republic of the	10
+Iran	10
+Kenya	10
+Mozambique	10
+Nigeria	10
+Philippines	10
+Sudan	10
+Uganda	10
